@@ -1,3 +1,5 @@
+cli download
+
 Prepare a Text File: Create a text file named video_links.txt (or any name) with content formatted as follows:
 ````
 Video Title 1 - https://example.com/video1.mp4
